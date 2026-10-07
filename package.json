@@ -12,7 +12,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BandTec/BobIA.git"
+        "url": "git+https://github.com/BandTec/bobia-lib.git"
     },
     "keywords": [
         "gemini",
