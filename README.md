@@ -1,6 +1,6 @@
 # BobIA
 
-Pergunte à IA e receba a resposta em uma linha de código. O BobIA é uma biblioteca Node.js que envolve a API do Google Gemini e foi criada para a disciplina de **Arquitetura Computacional** (SPTech), como apoio ao analista de suporte N3 do projeto de IoT.
+Pergunte à IA e receba a resposta em uma linha de código. O BobIA é uma biblioteca Node.js que envolve a API do Google Gemini e foi criada para a disciplina de **Arquitetura Computacional** da Faculdade São Paulo Tech School - SPTech, como apoio ao analista de suporte N3 do projeto de IoT.
 
 ```js
 const { perguntar } = require("bobia");
@@ -137,4 +137,4 @@ O BobIA usa o pacote oficial [`@google/genai`](https://www.npmjs.com/package/@go
 
 ## Licença
 
-[MIT](LICENSE) © 2026 Matheus Matos.
+[MIT](LICENSE) © 2026 Matheus Matos | São Paulo Tech School - SPTech.
