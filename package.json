@@ -1,7 +1,7 @@
 {
-    "name": "bobia",
-    "version": "1.0.0",
-    "description": "Pergunte à IA (Gemini) em uma linha. Apoio ao suporte N3 na disciplina de Arquitetura Computacional.",
+    "name": "bobia-lib",
+    "version": "1.0.1",
+    "description": "Pergunte à IA (Gemini) em uma linha. Apoio ao suporte N3 na disciplina de Arquitetura Computacional da Faculdade São Paulo Tech School - SPTech.",
     "main": "index.js",
     "files": [
         "index.js"
