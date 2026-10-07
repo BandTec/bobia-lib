@@ -1,0 +1,26 @@
+{
+    "name": "bobia",
+    "version": "1.0.0",
+    "description": "Pergunte à IA (Gemini) em uma linha. Apoio ao suporte N3 na disciplina de Arquitetura Computacional.",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "engines": {
+        "node": ">=20"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BandTec/BobIA.git"
+    },
+    "keywords": [
+        "gemini",
+        "ia",
+        "arduino",
+        "sptech"
+    ],
+    "dependencies": {
+        "@google/genai": "^2.27.0"
+    }
+}
